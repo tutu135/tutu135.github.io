@@ -1,7 +1,7 @@
 export const settings = {
-  site: 'https://tutu135.github.io',
-  name: 'Jimmy Blog',
-  title: 'Hello Everyone!',
-  description: 'Welcome to my blog!',
+  site: 'https://simple-blog.littlesticks.dev',
+  name: 'Simple Blog',
+  title: 'Site title',
+  description: 'Site description',
   showLittleSticksPlug: true,
 }
